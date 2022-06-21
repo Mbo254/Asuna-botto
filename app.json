@@ -1,7 +1,8 @@
 {
 	"name": "Asunna-botto",
 	"description": " Whatsapp self bot with base script of bottusbby lyfe.",
-	"keywords": [
+	"logo":"https://i.imgur.com/uZ8LFJM.jpeg"
+        "keywords": [
 		"whatsapp",
 		"bot"
 	],
