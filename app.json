@@ -6,7 +6,7 @@
 		"bot"
 	],
 	"repository": "https://github.com/nexusNw/Asuna-botto",
-        "logo":"https://i.imgur.com/uZ8LFJM.jpeg"
+        "logo":"https://i.imgur.com/uZ8LFJM.jpeg",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
